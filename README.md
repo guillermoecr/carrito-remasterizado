@@ -1,2 +1,2 @@
-# carrito-remasterizado
+# js-practice
 Created with CodeSandbox
